@@ -3,6 +3,9 @@ Nombre: Tomás Dutrinit
 Numero de Legajo: 93536/9
 Comisión: 3
 TP: #2 - Funciones y Ciclos FOR
+
+Video: https://youtu.be/X9YYw_UypSM
+
 */
 
 PImage ilusion;
